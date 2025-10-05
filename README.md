@@ -155,7 +155,7 @@ This repo documents my journey of learning and applying **AI thinking in product
 ## 🤝 Connect
 
 If you’re also exploring how AI reshapes product management, let’s learn together.  
-📍 [LinkedIn](https://linkedin.com/in/uzmamustafa)  
+📍 [LinkedIn](https://www.linkedin.com/in/uzmamustafaa/)  
 🌐 [GitHub Portfolio](https://github.com/UzmaPSU)
 
 > “Build in public. Learn loudly. Share your notes — they become someone else’s roadmap.”
