@@ -9,7 +9,7 @@
   <a href="#-changelog">
     <img alt="Updates" src="https://img.shields.io/badge/status-updating-brightgreen">
   </a>
-  <a href="https://linkedin.com/in/uzmamustafa">
+  <a href="https://linkedin.com/in/uzmamustafaa">
     <img alt="LinkedIn" src="https://img.shields.io/badge/connect-linkedin-blue">
   </a>
 </p>
